@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/buton_arka_plan_press">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textView_Soru_Sayı"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:gravity="center"
+                android:text="3/10"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="#FFFFFF"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:id="@+id/relative"
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginRight="5dp"
+                android:background="@drawable/soruplan8">
+
+                <TextView
+                    android:id="@+id/textView_Soru"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="50"
+                    android:textColor="#FFFFFF" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/buttonlar"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginTop="24dp"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+
+                <Button
+                    android:layout_width="250dp"
+                    android:layout_height="54dp"
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/buton_selector"
+                    android:text="Button"
+                    android:textAllCaps="false"
+                    android:textColor="#D1CCCC"
+                    android:textSize="15dp" />
+
+                <Button
+                    android:layout_width="250dp"
+                    android:layout_height="54dp"
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/buton_selector"
+                    android:text="Button"
+                    android:textAllCaps="false"
+                    android:textColor="#D1CCCC"
+                    android:textSize="15dp" />
+
+                <Button
+                    android:layout_width="250dp"
+                    android:layout_height="54dp"
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/buton_selector"
+                    android:text="Button"
+                    android:textAllCaps="false"
+                    android:textColor="#D1CCCC"
+                    android:textSize="15dp" />
+
+                <Button
+                    android:layout_width="250dp"
+                    android:layout_height="54dp"
+                    android:layout_marginBottom="0dp"
+                    android:background="@drawable/buton_selector"
+                    android:text="Button"
+                    android:textAllCaps="false"
+                    android:textColor="#D1CCCC"
+                    android:textSize="15dp" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/buton_arka_plan_press"
+        app:adSize="SMART_BANNER"
+        app:adUnitId="ca-app-pub-2396996479721834/5725733386" >
+
+    </com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+

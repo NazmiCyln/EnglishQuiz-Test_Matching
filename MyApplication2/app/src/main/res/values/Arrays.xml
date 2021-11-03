@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="renkler">
+
+        <item>Siyah-Black</item>
+        <item>Beyaz-White</item>
+        <item>Pembe-Pink</item>
+        <item>Kırmızı-Red</item>
+        <item>Sarı-Yellow</item>
+        <item>Yeşil-Green</item>
+        <item>Mavi-Blue</item>
+        <item>Lacivert-Navy Blue</item>
+        <item>Mor-Purple</item>
+        <item>Kahverengi-Brown</item>
+        <item>Gri-Grey</item>
+        <item>Turuncu-Orange</item>
+        <item>Altın Rengi-Gold</item>
+        <item>Gümüş Rengi-Silver</item>
+        <item>Turkuaz-Turquoise</item>
+        <item>Lila-Lilac</item>
+        <item>Menekşe-Violet</item>
+        <item>Bej-Beige</item>
+        <item>Koyu Mavi-Dark Blue</item>
+        <item>Bordo-Maroon</item>
+        <item>Hardal Rengi-Mustard Color</item>
+        <item>Çivit Mavisi-Indigo</item>
+        <item>Ela-Hazel</item>
+        <item>Bakır-Copper</item>
+
+    </string-array>
+    
+    <string-array name="hayvanlar">
+
+        <item>Köpek-Dog</item>
+        <item>Kedi-Cat</item>
+        <item>Aslan-Lion</item>
+        <item>At-Horse</item>
+        <item>Eşek-Donkey</item>
+        <item>Maymun-Monkey</item>
+        <item>Yılan-Snake</item>
+        <item>Fare-Mouse</item>
+        <item>Ayı-Bear</item>
+        <item>Kuş-Bird</item>
+        <item>Kaplumbağa-Turtle</item>
+        <item>Tavşan-Rabbit</item>
+        <item>Papağan-Parrot</item>
+        <item>İnek-Cow</item>
+        <item>Ördek-Duck</item>
+        <item>Karides-Shrimp</item>
+        <item>Keçi-Goat</item>
+        <item>Yengeç-Crab</item>
+        <item>Arı-Bee</item>
+        <item>Koyun-Sheep</item>
+        <item>Balık-Fish</item>
+        <item>Güvercin-Dove</item>
+        <item>Hindi-Turkey</item>
+        <item>Tavuk-Chicken</item>
+        <item>Karga-Crow</item>
+        <item>Serçe-Sparrow</item>
+        <item>Güvercin-Pigeon</item>
+        <item>Şahin-Hawk</item>
+        <item>Martı-Seagull</item>
+        <item>Devekuşu-Ostrich</item>
+        <item>Baykuş-Owl</item>
+        <item>Su Samuru-Otter</item>
+        <item>Kanguru-Kangaroo</item>
+        <item>Köstebek-Mole</item>
+        <item>Fil-Elephant</item>
+        <item>Zürafa-Giraffe</item>
+        <item>Tilki-Fox</item>
+        <item>Geyik-Deer</item>
+        <item>Deve-Camel</item>
+        <item>Deniz Yıldızı-Starfish</item>
+        <item>Timsah-Alligator(Crocodile)</item>
+        <item>Kaplan-Tiger</item>
+        <item>Rakun-Raccoon</item>
+        <item>Yunus-Dolphin</item>
+        <item>Kanada Geyiği-Elk</item>
+        <item>Goril-Gorilla</item>
+        <item>Yarasa-Bat</item>
+        <item>Yabani Tavşan-Hare</item>
+        <item>Karakurbağası-Toad</item>
+        <item>Kurbağa-Frog</item>
+        <item>Sıçan-Rat</item>
+        <item>Porsuk-Badger</item>
+        <item>Kertenkele-Lizard</item>
+        <item>Su Samuru-Otter</item>
+        <item>Deniz Ayısı-Walrus</item>
+        <item>Öküz-Ox</item>
+        <item>Ağaçkakan-Woodpecker</item>
+        <item>Kuğu-Swan</item>
+        <item>TavusKuşu-Peacock</item>
+        <item>Domuz-Pig</item>
+        <item>Yavru Kedi-Kitten</item>
+        <item>Yavru Köpek-Puppy</item>
+        <item>Kaz-Goose</item>
+        <item>Civciv-Chick</item>
+        <item>Kuzu-Lamb</item>
+        <item>Çita-Cheetah</item>
+        <item>Kurt-Wolfe</item>
+        <item>Kutup Ayısı-Polar Bear</item>
+        <item>Gergedan-Rhino</item>
+        <item>Sincap-Squirrel</item>
+        <item>Kirpi-Hedgehog</item>
+        <item>Köpek Balığı-Shark</item>
+        <item>Solucan-Worm</item>
+        <item>Mercan-Coral</item>
+        <item>Ahtapot-Octopus</item>
+        <item>Salyangoz-Snail</item>
+        <item>Sinek-Fly</item>
+        <item>Kelebek-Butterfly</item>
+        <item>Karınca-Ant</item>
+        <item>Örümcek-Spider</item>
+        <item>Akrep-Scorpion</item>
+        <item>Istakoz-Lobster</item>
+        <item>Uğur Böceği-Ladybug</item>
+        <item>Ateşböceği-Firefly</item>
+        <item>Levrek-Perch</item>
+        <item>Yılan Balığı-Ell</item>
+        <item>Sazan-Carp</item>
+        <item>Ton Balığı-Tuna</item>
+        <item>Penguen-Penguin</item>
+        <item>Kartal-Eagle</item>
+        <item>Piton-Python</item>
+        <item>Anakonda-Anaconda</item>
+        <item>Fok-Seal</item>
+        <item>Balina-Whale</item>
+        <item>Zebra-Zebra</item>
+        <item>Koala-Koala</item>
+        <item>Panda-Panda</item>
+        <item>Vaşak-Wildcat</item>
+        <item>Bukalemun-Chameleon</item>
+        <item>Kobra-Cobra</item>
+        <item>Midilli-Pony</item>
+        <item>Boğa-Bull</item>
+        <item>Kel Kartal-Bald Eagle</item>
+        <item>Koç-Ram</item>
+        <item>Midye-Mussel</item>
+
+    </string-array>
+
+    <string-array name="sayilar">
+        <item>0-Zero</item>
+        <item>1-One</item>
+        <item>2-Two</item>
+        <item>3-Three</item>
+        <item>4-Four</item>
+        <item>5-Five</item>
+        <item>6-Six</item>
+        <item>7-Seven</item>
+        <item>8-Eight</item>
+        <item>9-Nine</item>
+        <item>10-Ten</item>
+        <item>11-Eleven</item>
+        <item>12-Twelve</item>
+        <item>13-Thirteen </item>
+        <item>14-Fourteen</item>
+        <item>15-Fifteen</item>
+        <item>16-Sixteen</item>
+        <item>17-Seventeen</item>
+        <item>18-Eightteen</item>
+        <item>19-Nineteen</item>
+        <item>20-Twenty</item>
+        <item>21-Twenty One</item>
+        <item>22-Twenty Two</item>
+        <item>23-Twenty Three</item>
+        <item>24-Twenty Four</item>
+        <item>25-Twenty Five</item>
+        <item>26-Twenty Six</item>
+        <item>27-Twenty Seven</item>
+        <item>28-Twenty Eight</item>
+        <item>29-Twenty Nine</item>
+        <item>30-Thirty</item>
+        <item>31-Thirty One</item>
+        <item>32-Thirty Two</item>
+        <item>33-Thirty Three</item>
+        <item>34-Thirty Four</item>
+        <item>35-Thirty Five</item>
+        <item>36-Thirty Six</item>
+        <item>37-Thirty Seven</item>
+        <item>38-Thirty Eight</item>
+        <item>39-Thirty Nine</item>
+        <item>40-Forty</item>
+        <item>41-Forty One</item>
+        <item>42-Forty Two</item>
+        <item>43-Forty Three</item>
+        <item>44-Forty Four</item>
+        <item>45-Forty Five</item>
+        <item>46-Forty Six</item>
+        <item>47-Forty Seven</item>
+        <item>48-Forty Eight</item>
+        <item>49-Forty Nine</item>
+        <item>50-Fifty</item>
+        <item>51-Fifty One</item>
+        <item>52-Fifty Two</item>
+        <item>53-Fifty Three</item>
+        <item>54-Fifty Four</item>
+        <item>55-Fifty Five</item>
+        <item>56-Fifty Six</item>
+        <item>57-Fifty Seven</item>
+        <item>58-Fifty Eight</item>
+        <item>59-Fifty Nine</item>
+        <item>60-Sixty</item>
+        <item>61-Sixty One</item>
+        <item>62-Sixty Two</item>
+        <item>63-Sixty Three</item>
+        <item>64-Sixty Four</item>
+        <item>65-Sixty Five</item>
+        <item>66-Sixty Six</item>
+        <item>67-Sixty Seven</item>
+        <item>68-Sixty Eight</item>
+        <item>69-Sixty Nine</item>
+        <item>70-Seventy</item>
+        <item>71-Seventy One</item>
+        <item>72-Seventy Two</item>
+        <item>73-Seventy Three</item>
+        <item>74-Seventy Four</item>
+        <item>75-Seventy Five</item>
+        <item>76-Seventy Six</item>
+        <item>77-Seventy Seven</item>
+        <item>78-Seventy Eight</item>
+        <item>79-Seventy Nine</item>
+        <item>80-Eighty</item>
+        <item>81-Eighty One</item>
+        <item>82-Eighty Two</item>
+        <item>83-Eighty Three</item>
+        <item>84-Eighty Four</item>
+        <item>85-Eighty Five</item>
+        <item>86-Eighty Six</item>
+        <item>87-Eighty Seven</item>
+        <item>88-Eighty Eight</item>
+        <item>89-Eighty Nine</item>
+        <item>90-Ninety</item>
+        <item>91-Ninety One</item>
+        <item>92-Ninety Two</item>
+        <item>93-Ninety Three</item>
+        <item>94-Ninety Four</item>
+        <item>95-Ninety Five</item>
+        <item>96-Ninety Six</item>
+        <item>97-Ninety Seven</item>
+        <item>98-Ninety Eight</item>
+        <item>99-Ninety Nine</item>
+        <item>100-One Hundred</item>
+
+    </string-array>
+
+    <string-array name="ulkeler">
+
+        <item>Arnavutluk-Albania</item>
+        <item>Cezayir-Algeria</item>
+        <item>Arjantin-Argentina</item>
+        <item>Avustralya-Australia</item>
+        <item>Avusturya-Austria</item>
+        <item>Azerbaycan-Azerbaijan</item>
+        <item>Belçika-Belgium</item>
+        <item>Brezilya-Brazil</item>
+        <item>Bulgaristan-Bulgaria</item>
+        <item>Kanada-Canada</item>
+        <item>Çin-China</item>
+        <item>Kıbrıs-Cyprus</item>
+        <item>Çekya-Czechia</item>
+        <item>Danimarka-Denmark</item>
+        <item>Mısır-Egypt</item>
+        <item>İngiltere-England</item>
+        <item>Finlandiya-Finland</item>
+        <item>Fransa-France</item>
+        <item>Gürcistan-Georgia</item>
+        <item>Almanya-Germany</item>
+        <item>Yunanistan-Greece</item>
+        <item>Hollanda-Holland</item>
+        <item>Macaristan-Hungary</item>
+        <item>Hindistan-India</item>
+        <item>İran-Iran</item>
+        <item>Irak-Iraq</item>
+        <item>İtalya-Italy</item>
+        <item>İsrail-Israel</item>
+        <item>Japonya-Japan</item>
+        <item>Ürdün-Jordan</item>
+        <item>Letonya-Latvia</item>
+        <item>Libya-Libya</item>
+        <item>Meksika-Mexico</item>
+        <item>Fas-Morocco</item>
+        <item>Pakistan-Pakistan</item>
+        <item>Polonya-Poland</item>
+        <item>Portekiz-Portugal</item>
+        <item>Romanya-Romania</item>
+        <item>Rusya-Russia</item>
+        <item>Suudi Arabistan-Saudi Arabia</item>
+        <item>İskoçya-Scotland</item>
+        <item>Güney Kore-South Korea</item>
+        <item>İspanya-Spain</item>
+        <item>İsveç-Sweden</item>
+        <item>İsviçre-Switzerland</item>
+        <item>Tayland-Thailand</item>
+        <item>Türkiye-Turkey</item>
+        <item>Ukrayna-Ukraine</item>
+        <item>Birleşik Krallık-United Kingdom(UK)</item>
+        <item>Amerika Birleşik Devletleri-United States(USA)</item>
+        <item>Dominik Cumhuriyeti-Dominican Republic</item>
+        <item>Venezüella-Venezuela</item>
+        <item>Vietnam-Vietnam</item>
+
+    </string-array>
+
+    <string-array name="doldur">
+
+        <item>The ..... is cloudy today.-sky</item>
+        <item>It is always cold in ......-winter</item>
+        <item>I haven t got even a ..... on me.-penny</item>
+        <item>I can see the sunshine behind the .....-curtains</item>
+        <item>Continue the logic list. Valley, forest, mountain, .....-lake</item>
+        <item>The longest holiday for students is in .....-summer</item>
+        <item>The pictures is on the .....-wall</item>
+        <item>Do you want to drink .....?-fruit juice</item>
+        <item>..... the door, so that no one can enter.-lock</item>
+        <item>The more you ....., the more you earn.-work</item>
+        <item>Choose the word which is out the logic list.-vase</item>
+        <item>He sat one the ..... in the cafe.-stool</item>
+        <item>I take my ..... off before I go to bed.-clothes</item>
+        <item>I wash my hands in the .....-sink</item>
+        <item>I put extra ..... on my bed.-blanket</item>
+        <item>I go to ..... at midnight.-bed</item>
+        <item>We keep shirts and underwear in the .....-wardrobe</item>
+        <item>We always ..... at the hotel when we go abroad.-stay</item>
+        <item>Bob passes over the ..... on his way at school.-bridge</item>
+        <item>He drinks ..... quickly.-beer</item>
+        <item>The river ..... every winter because of cold weather.-freezes</item>
+        <item>The always ..... stones at the dog.-throw</item>
+        <item>Choose the word which is out of the logic list.-watch</item>
+        <item>She ..... to stay at home.-prefers</item>
+        <item>We hang trousers, jackets, and dresses in the .....-hanger</item>
+        <item>Continue the logic list. Sweater, boots, T shirt, .....-jeans</item>
+        <item>I lost my ....., so I cannot open the door.-key</item>
+        <item>I can t hear the music. Could you turn on the .....?-speakers</item>
+        <item>He ..... in the war.-fought</item>
+        <item>Come ..... and sit down!-here</item>
+        <item>She ..... the class history.-teaches</item>
+        <item>This is a ..... coat, not cotton.-fur</item>
+        <item>We have no money to buy a ..... for the rain to London.-ticket</item>
+        <item>Thieves ..... things.-steal</item>
+        <item>I have a curly .....-hair</item>
+        <item>Large amount of ..... is grown in China.-wheat</item>
+        <item>When I saw him, he was ..... bicycle.-riding</item>
+        <item>My answer was ....., not wrong.-right</item>
+        <item>My brother is ..... a book.-reading</item>
+        <item>Continue the logic list. Red, green, brown, .....-yellow</item>
+        <item>Who are you ..... for?-waiting</item>
+        <item>Go straight, then turn to right, not .....-left</item>
+        <item>Where do we go to buy things?-shop</item>
+        <item>Do you want to ..... biscuit?-eat</item>
+        <item>My parents decided to send me to a ..... when I was three.-nursery school</item>
+        <item>Some parents pay to send their children to a ..... school.-private</item>
+        <item>Points in your character are called .....-personal qualities</item>
+        <item>A good education ..... will get you a good job.-degree</item>
+        <item>He is a ..... of Harvard University. He is working in NASA now.-graduate</item>
+        <item>My friend ..... his exams. He is sad.-failed</item>
+        <item>Students of this class are very ..... on their subjects.-keen</item>
+        <item>John receives a ..... from the state to help him pay the university fees.-grant</item>
+        <item>Education is ..... after the age of 7. Every child should be sent to school.-compulsory</item>
+        <item>There are four ..... in an education year in many countries.-terms</item>
+        <item>Certificates and exams passed mean .....?-qualifications</item>
+        <item>We call abilities you can do as .....-skills</item>
+        <item>Work of the same type you have done before is called .....-experience</item>
+        <item>Can I try this ..... on?-jacket</item>
+        <item>Can I have my ..... back?-money</item>
+        <item>We give the money to the ..... in the market?-cashier</item>
+        <item>I took some biscuits from the ..... in the supermarket?-shelf</item>
+        <item>I must buy things ..... my house-for</item>
+        <item>It is warm and pleasant when the sun .....-shines</item>
+        <item>I forget to ..... for goods that I buy every time.-pay</item>
+        <item>I am ..... my glasses. Where can it be?-looking for</item>
+        <item>If you cannot ..... your watch, buy a new one.-find</item>
+        <item>It is cold in England when a north wind .....-blows</item>
+        <item>They have everything you ..... for your house.-need</item>
+        <item>When it rains very heavily, it .....-pours</item>
+        <item>My friends say I like to ..... money.-spend</item>
+        <item>My father ..... shoes in a store.-sells</item>
+        <item>You can ..... everything you need at this supermarket.-buy</item>
+        <item>I keep my books in a/an .....-bookcase</item>
+        <item>I watch ..... while I am sitting on the sofa.-television</item>
+        <item>I sometimes listen to the .....-radio</item>
+        <item>Children enjoy playing games when it .....-snows</item>
+        <item>We stand in a bus ..... to wait for a bus.-stop</item>
+        <item>You can cross the road at a .....-crossing</item>
+        <item>When it is very cold, everything .....-freezes</item>
+        <item>The cars wait until the traffic ..... turn green.-lights</item>
+        <item>We get wet when it .....-rains</item>
+        <item>She has got a yellow dress .....-on</item>
+        <item>I remember her. She was the one ..... green shoes.-with</item>
+        <item>We pick things up with our .....-hands</item>
+        <item>She waited ..... the bus in the bus stop.-for</item>
+        <item>I brush my ..... regularly, especially after eating.-teeth</item>
+        <item>Who is the man ..... the red tie?-with</item>
+        <item>We comb and brush our .....-hair</item>
+        <item>I sometimes go to school ..... bus.-by</item>
+        <item>To eat something I put it in my .....-mouth</item>
+        <item>I lick an ice cream with my .....-tongue</item>
+        <item>She sprained her ..... and she can t walk now.-ankle</item>
+        <item>Nancy is a/an ..... person. You can trust her and tell anything.-reliable</item>
+        <item>In English the word "technology" first ..... in 17th century.-appeared</item>
+        <item>The weather was so ..... that we had to stop the car since we couldn t get ahead.-foggy</item>
+        <item>I am going to be a/an ..... in the future and design interesting buildings.-architect</item>
+        <item>Jack has a/an ..... job because he is a student and he has to attend his classes-part time</item>
+        <item>When you get along with your friends, you have ..... with them.-good relationships</item>
+        <item>When I can t succeed in exams, I get really .....-miserable</item>
+        <item>Ice climbing is ....., so be very careful.-risky</item>
+        <item>His voice started to ....., he was about to cry.-tremble</item>
+        <item>Bruce is always making the same mistake and works very slowly. He is not a/an worker.-efficient</item>
+        <item>You can easily recognize my brother because he ..... me.-resembles</item>
+        <item>Don t ..... even if it is seems to be no hope at all.-give up</item>
+        <item>Mrs. Barclay killed her daughter and the jury decided to put her in .....-jail</item>
+        <item>Better ..... of your ceiling keeps your home warmer, it also help you pay less heating bills.-insulation</item>
+        <item>..... Numbers System is the numeral system that consists of two symbols, 1 and 0.-binary</item>
+        <item>Thanks to internet banking, you can get in touch with your bank and pay the .....-bill</item>
+        <item>..... means an illegitimate plan for making money by tricking or lying to somebody.-scam</item>
+        <item>Ragweed pollen is the most common ..... for fall allergies.-culprit</item>
+        <item>Some healthy diets allow people to consume a few ..... of bread.-slices</item>
+        <item>Most people don t like going to the doctors so they usually ..... their appointments.-postpone</item>
+        <item>Luckily, the manager obviously gave ..... to personal requests.-priority</item>
+        <item>The situation remained intensely ..... and caused lots od conflict.-controversial</item>
+        <item>I am terribly sorry for ..... your notes in the library.-forgetting</item>
+        <item>I am interested in science so I ..... biology to history.-prefer</item>
+        <item>I didn t want to take the exam because I didn t ..... hard last night.-study</item>
+        <item>Barcelona received a lot of criticism after Arda Turan s ..... transfer from Atletico Madrid.-costly</item>
+        <item>When he gave her the letter, she couldn t control her ..... and burst into tears.-excitement</item>
+        <item>She couldn t help feeling ..... Her legs were trembling at the fear of giving a speech.-frightened</item>
+        <item>He never changes his mind and plans. It is hard to convince him, so he is ..... person.-stubborn</item>
+        <item>Mathilda is unable to focus on studying for a long time and she is very easily .....-distracted</item>
+        <item>They are twins and look very .....-alike</item>
+        <item>Let me know if any difficulties .....-arise</item>
+        <item>It is very popular play, and it would be wise to ..... seats well in advance.-book</item>
+        <item>Will you be taking my previous experience into ..... when you fix my salary?-account</item>
+        <item>There was a large box behind the door and John could not ..... falling over it.-avoid</item>
+        <item>He s not ..... of learning German in six months.-capable</item>
+        <item>The office lifts are out of ..... again.-order</item>
+        <item>Most things are now mass produced rather than .....-hand-made</item>
+        <item>I can t ..... to have a holiday abroad on my salary.-afford</item>
+        <item>If it wasn t an accident, he must have done it on .....-purpose</item>
+        <item>This ..... is not big enough to cut down a tree.-axe</item>
+        <item>Because of the fine weather, we had all our classes in the ..... air.-open</item>
+        <item>He won t ...... to buy some bread unless I tell him again.-remember</item>
+        <item>He must give us more time ..... we shall not be able to make a good Job of it.-otherwise</item>
+        <item>I have always ..... you my best friend.-considered</item>
+        <item>When you get to the motorway, follow the ..... for London.-signs</item>
+        <item>The garden ..... as far as the river.-extends</item>
+        <item>It is time to ..... the table for dinner.-lay</item>
+        <item>He lost his ..... when the policeman stopped him.-temper</item>
+        <item>I should be very ..... if you would post this letter for me.-grateful</item>
+        <item>Why can t you do this small ..... for me? I have helped you often enough in the past.-favor</item>
+        <item>This blue flower is known by ..... names in other parts of England.-various</item>
+        <item>It will ..... time if we make the sandwiches the day before the picnic.-save</item>
+        <item>..... of money prevented us from taking a holiday this year.-lack</item>
+        <item>I haven t got enough string to ..... up this parcel.-tie</item>
+        <item>Bill doesn t ..... what people say about him.-care</item>
+        <item>When he beat the carpet, the ..... rose in clouds.-dust</item>
+        <item>While I am on holiday, ring me at my hotel only if there are any ..... messages for me.-urgent</item>
+        <item>The children will not be allowed to come with us if they don t ..... themselves better.-behave</item>
+        <item>Apart from those three very cold weeks in January, it has been a very ..... winter.-mild</item>
+        <item>The best student in each class will ..... a prize at the end of term.-receive</item>
+        <item>The local tourist bureau will send you  ..... about hotels in the area.-information</item>
+        <item>The police ..... her for helping the murderer to escape.-arrested</item>
+        <item>The ..... of ice cream sold increases sharply in the summer months.-amount</item>
+        <item>You must obtain ..... from the landowner to fish in this river.-permission</item>
+        <item>There is real concern that food supplies will not be ..... to feed the increasing world population.-sufficient</item>
+        <item>The use of plastic for shoes ..... of leather has ruined shoe repairing as a business.-instead</item>
+        <item>Her husband felt it would be silly to ..... the color of the curtains before they had painted the room.-choose</item>
+        <item>When there was a short ..... in the conversation, I asked if anyone would like anything to drink.-pause</item>
+        <item>Although the false banknotes fooled many people, they did not ..... to close examination.-stand up</item>
+        <item>Some people look at every day as a new chance to improve their world. They are ..... about their life.-optimistic</item>
+        <item>Warsaw is a crowded city. You should be ..... while walking on the road. Otherwise people will hit you.-careful</item>
+        <item>Scientists claim that the reason why an octopus ..... to crawl rather than swimming is that its heart stop beating while he is swimming.-prefers</item>
+        <item>I stayed at a Thermal Resort on my last vacation. Because thermal water has ..... effect on many health problems.-healing</item>
+        <item>He spent his last holiday by visiting ..... houses and museums in Amsterdam. He took lots of photos.-historic</item>
+        <item>Archimedes ..... a great number of outstanding inventions to the development of science.-contributed</item>
+        <item>She couldn t help feeling ..... Her legs were trembling at the fear of giving a speech.-frightened</item>
+        <item>For years, Cappadocia has fascinated people with its ..... atmosphere. Once you have visited there, you will enjoy the picturesque scenery.-impressive</item>
+        <item>I was ..... as an architect last month. Unfortunately, I am not satisfied with my job. So, I will look for a new one.-employed</item>
+        <item>As part of the event, the President made a speech and ..... the importance of renewable energy-emphasized</item>
+        <item>She never misses the bus and always arrives at school on time. She is the most ..... I have ever met.-punctual</item>
+        <item>Dried rose petals in a bowl with some rose oil can give a room a lovely.-fragrance</item>
+        <item>I want a word with you ..... I don t want anyone else to hear this news.-privately</item>
+        <item>A: Where can I put these plates? B: ..... them in the top cupboard, please.-stack</item>
+        <item>I received a/an ..... of that new washing tablet "Bold" through the post box yesterday. I have tried it and might buy some.-sample</item>
+        <item>When they failed to have a child of their own, they decided to ..... a child from the orphanage.-adopt</item>
+        <item>Sarah is very ..... She has several blue beads around the house, never walks under ladders and never starts anything on a Friday.-superstition</item>
+        <item>The mourners walked ..... from his graveside in the pouring rain. It was a very sad occasion.-solemnly</item>
+        <item>The bullet hit him and ..... his left shoulder.-wounded</item>
+        <item>She ..... the young tree to a post in the ground in order to help it grow straight and strong.-bound</item>
+        <item>Susan looks miserable. Has anyone said something to ..... her?-upset</item>
+        <item>I ..... my fingernail when I was opening a packet of ham.-split</item>
+        <item>Simon always ..... his jacket on the sofa instead of hanging it on the coat hook. He is so messy.-flings</item>
+        <item>As the bride walked from the church, the bridesmaids ..... rose petals over her.-threw</item>
+        <item>My father ..... walks an hour in the morning. This high level of aerobic exercise is especially good for his heart.-regulary</item>
+        <item>This afternoon, I ..... the documents relating to the planning meeting, which was annoying. I came across them later next to the photocopier.-mislaid</item>
+        <item>The show grew ..... in popularity and travelled widely in the United States and Europe for 30 years.-steadily</item>
+        <item>The cat ..... up behind the bird and then pounced on it.-crept</item>
+        <item>The police’s new "No Tolerance" policy has virtually ..... the area of drug dealers.-rid</item>
+        <item>Simon ..... his money in property because he thinks it is a safe way of making money.-invests</item>
+        <item>He used a ..... from his bank to start up his own business.-loan</item>
+        <item>The celebrations were ..... when a fight broke out among the guests.-interrupted</item>
+        <item>He didn t have to stay in hospital overnight because his ankle only required ..... surgery.-minor</item>
+        <item>Banks usually ask for some proof of ..... before they cash any travellers cheques.-identity</item>
+        <item>The North Koreans have admitted making weapons that could cause ..... destruction.-mass</item>
+        <item>It is a frightening ..... that a violent crime occurs in Manchester every ten minutes.-statistic</item>
+        <item>When my aunt goes on holiday, we find ourselves ..... with her two pet dogs.-burdened</item>
+        <item>The young girls ..... around the playground happily.-skipped</item>
+        <item>Some thoughtless vandal ..... all four tyres on my car last night.-slashed</item>
+        <item>We need to get a ..... to fix the new door on our van.-welder</item>
+        <item>My mothers bath has been specially ..... so that she can get in and out easily.-adapted</item>
+        <item>Did I ..... Josh had got married?-mention</item>
+        <item>I am not sure whether the Istanbul metro system is fully ..... yet.-operational</item>
+        <item>My daughters toy computer ..... four batteries in order to work.-requires</item>
+
+
+    </string-array>
+
+    <string-array name="kelimeler">
+
+        <item>Charming-Cazibeli</item>
+        <item>Fantastic/Wonderful/Awesome-Harika</item>
+        <item>Castle-Kale</item>
+        <item>Historic/Historical-Tarihi</item>
+        <item>Definitely/Absolutely/Certainly-Kesinlikle</item>
+        <item>Along-Boyunca</item>
+        <item>Adventures-Maceraperest</item>
+        <item>Culture-Kültür</item>
+        <item>Attractive-Cezbetmek</item>
+        <item>Famous for-... ile ünlü</item>
+        <item>Island-Ada</item>
+        <item>Beach-Kumsal/Plaj</item>
+        <item>Museum-Müze</item>
+        <item>Lovely-Güzel/Hoş</item>
+        <item>Destination-Varış yeri</item>
+        <item>Moreover-Ayrıca</item>
+        <item>Construct-İnşa etmek</item>
+        <item>Crossroad-Kesişim noktası</item>
+        <item>Comfortable-Rahat</item>
+        <item>Cold-Soğuk</item>
+        <item>North-Kuzey</item>
+        <item>Incredible/Unbelievable-İnanılmaz</item>
+        <item>Architecture-Mimari</item>
+        <item>In fact-Aslında</item>
+        <item>East-Doğu</item>
+        <item>Means of transportation-Ulaşım yolları</item>
+        <item>Accomodation-Kalınacak yer</item>
+        <item>Fascinating-Büyüleyici</item>
+        <item>Common-Yaygın</item>
+        <item>Attend/Join-Katılmak</item>
+        <item>Buy-Satın almak</item>
+        <item>Cave-Mağara</item>
+        <item>Mountain-Dağ</item>
+        <item>Ancient-Çok eski</item>
+        <item>Aquarium-Akvaryum</item>
+        <item>Depart-Yola çıkmak</item>
+        <item>Forest-Orman</item>
+        <item>Local-Yerel</item>
+        <item>Mystic-Gizemli</item>
+        <item>Breakfast-Kahvaltı</item>
+        <item>Mostly-Çoğunlukla</item>
+        <item>Discover-Keşfetmek</item>
+        <item>Northeast-Kuzeydoğu</item>
+        <item>Cold-Soğuk</item>
+        <item>Search-Aramak</item>
+        <item>Different-Farklı</item>
+        <item>Swimming-Yüzmek</item>
+        <item>Listening to music-Müzik dinlemek</item>
+        <item>Sing song-Şarkı söylemek</item>
+        <item>Dancing-Dans etmek</item>
+        <item>Playing football-Futbol oynamak</item>
+        <item>Playing basketball-Basketbol oynamak</item>
+        <item>Playing tennis-Tenis oynamak</item>
+        <item>Playing table tennis-Masa tenisi oynamak</item>
+        <item>Playing golf-Golf oynamak</item>
+        <item>Playing volleyball-Voleybol oynamak</item>
+        <item>Fishing-Balık tutmak</item>
+        <item>Reading a book-Kitap okumak</item>
+        <item>Violin-Keman</item>
+        <item>Riding a bike-Bisiklete binmek</item>
+        <item>Drawing pictures-Resim çizmek</item>
+        <item>Chess-Satranç</item>
+        <item>Checkers-Dama</item>
+        <item>Backgammon-Tavla</item>
+        <item>Scouting-İzcilik</item>
+        <item>Feel-His</item>
+        <item>Contact-İletişim</item>
+        <item>Able-Yapabilen</item>
+        <item>Adjective-Sıfat</item>
+        <item>After-Sonra</item>
+        <item>Agreed-Anlaşıldı</item>
+        <item>Air-Hava</item>
+        <item>Answer-Cevap</item>
+        <item>Any-Herhangi</item>
+        <item>Anything-Hiçbir şey</item>
+        <item>Art-Sanat</item>
+        <item>Ability-Beceri</item>
+        <item>About-Hakkında</item>
+        <item>Above-Üstünde</item>
+        <item>Abroad-Yurtdışı</item>
+        <item>Absolute-Kesin/Mutlak</item>
+        <item>Accept-Kabul Etmek</item>
+        <item>Access-Giriş/Erişim</item>
+        <item>Accident-Kaza</item>
+        <item>Account-Hesap</item>
+        <item>Accurate-Kesin/Doğru</item>
+        <item>Accuse-Suçlamak</item>
+        <item>Active-Etkin</item>
+        <item>Activity-Faaliyet</item>
+        <item>Actual-Gerçek</item>
+        <item>Add-Eklemek</item>
+        <item>Addination-İlave</item>
+        <item>Adult-Yetişkin</item>
+        <item>Advantage-Avantaj</item>
+        <item>Adventure-Macera</item>
+        <item>Advice-Tavsiye/Nasihat</item>
+        <item>Afraid-Korkmuş</item>
+        <item>Afternoon-Öğleden sonra</item>
+        <item>Again-Tekrar</item>
+        <item>Age-Yaş</item>
+        <item>Agenda-Ajanda</item>
+        <item>Ago-Önce</item>
+        <item>Agree-Katılmak</item>
+        <item>Agreement-Anlaşma</item>
+        <item>Ahead-İleri</item>
+        <item>Aim-Hedef</item>
+        <item>Aircraft-Uçak/Hava taşıtı</item>
+        <item>Airline-Havayolu</item>
+        <item>Airport-Havalimanı</item>
+        <item>Alive-Canlı</item>
+        <item>Alive-Hepsi/Tüm</item>
+        <item>Allow-İzin vermek</item>
+        <item>Almost-Neredeyse/Hemen hemen</item>
+        <item>Alone-Yalnız</item>
+        <item>Also-Ayrıca</item>
+        <item>Always-Her zaman</item>
+        <item>Amazing-Şaşırtıcı</item>
+        <item>Amount-Tutar</item>
+        <item>Analysis-Analiz</item>
+        <item>Analyst-Analist</item>
+        <item>Ancient-Antik</item>
+        <item>Anger-Öfke</item>
+        <item>Angry-Kızgın</item>
+        <item>Animal-Hayvan</item>
+        <item>Another-Başka</item>
+        <item>Anybody-Kimse</item>
+        <item>Anyway-Neyse/Her neyse </item>
+        <item>Appearance-Görünüş</item>
+        <item>Apple-Elma</item>
+        <item>Application-Uyguluma</item>
+        <item>Apply-Başvurmak</item>
+        <item>Appoint-Atamak</item>
+        <item>Approach-Yanaşmak</item>
+        <item>Area-Alan/Bölge</item>
+        <item>Architect-Mimar</item>
+        <item>Argue-Tartışmak</item>
+        <item>Arm-Kol</item>
+        <item>Army-Ordu</item>
+        <item>Arrange-Ayarlamak</item>
+        <item>Article-Makale</item>
+        <item>Ask-Sormak</item>
+        <item>Assault-Saldırmak</item>
+        <item>Asset-Varlık</item>
+        <item>Assistance-Yardım</item>
+        <item>Assistant-Yardımcı/Asistan</item>
+        <item>Attach-Eklemek</item>
+        <item>Attack-Saldırmak</item>
+        <item>Attend-Katılmak</item>
+        <item>Attorney-Avukat</item>
+        <item>Author-Yazar</item>
+        <item>Available-Müsait/Uygun</item>
+        <item>Average-Ortalama</item>
+        <item>Baby-Bebek</item>
+        <item>Back-Arka</item>
+        <item>Background-Arka fon</item>
+        <item>Backpack-Sırt çantası</item>
+        <item>Bad-Kötü</item>
+        <item>Bag-Çanta</item>
+        <item>Bake-Pişirmek</item>
+        <item>Balance-Denge</item>
+        <item>Ball-Top</item>
+        <item>Bank-Banka</item>
+        <item>Basic-Temel</item>
+        <item>Basket-Sepet</item>
+        <item>Bathroom-Banyo</item>
+        <item>Battery-Pil</item>
+        <item>Battle-Savaş</item>
+        <item>Bean-Fasulye</item>
+        <item>Bear-Ayı</item>
+        <item>Beautiful-Güzel</item>
+        <item>Because-Çünkü</item>
+        <item>Become-Olmak</item>
+        <item>Bed-Yatak</item>
+        <item>Bedroom-Yatak odası</item>
+        <item>Beer-Önce</item>
+        <item>Beginning-Başlangıç</item>
+        <item>Behind-Arkada</item>
+        <item>Believe-İnanmak</item>
+        <item>Belong-Ait olmak</item>
+        <item>Below-Aşağısında</item>
+        <item>Belt-Kemer</item>
+        <item>Benefit-Fayda</item>
+        <item>Best-En iyi</item>
+        <item>Bet-İddaa</item>
+        <item>Better-Daha iyi</item>
+        <item>Between-Arasında</item>
+        <item>Big-Büyük</item>
+        <item>Bill-Fatura</item>
+        <item>Bird-Kuş</item>
+        <item>Birth-Doğum</item>
+        <item>Blind-Kör</item>
+        <item>Blood-Kan</item>
+        <item>Body-Vücut</item>
+        <item>Book-Kitap</item>
+        <item>Boss-Patron</item>
+        <item>Bottle-Şişe</item>
+        <item>Bowl-Kase/Tas</item>
+        <item>Box-Kutu</item>
+        <item>Brain-Beyin</item>
+        <item>Bread-Ekmek</item>
+        <item>Break-Kırmak</item>
+        <item>Breakfast-Kahvaltı</item>
+        <item>Breast-Göğüs</item>
+        <item>Bridge-Köprü</item>
+        <item>Bright-Parlak</item>
+        <item>Broken-Bozuk/Kırık</item>
+        <item>Brother-Erkek kardeş</item>
+        <item>Brush-Fırça</item>
+        <item>Build-İnşa etmek</item>
+        <item>Building-Bina</item>
+        <item>Bullet-Mermi</item>
+        <item>Burn-Yakmak</item>
+        <item>Bus-Otobüs</item>
+        <item>Business-İş</item>
+        <item>Busy-Meşgül</item>
+        <item>Button-Düğme/Buton</item>
+        <item>Buy-Satın almak</item>
+        <item>Buyer-Alıcı</item>
+        <item>Call of-İptal etmek</item>
+        <item>Candid-İçten/Samimi</item>
+        <item>Captive-Esir</item>
+        <item>Carpet-Halı</item>
+        <item>Castle-Kale</item>
+        <item>Ceasefire-Ateşkes</item>
+        <item>Charge-Saldırı</item>
+        <item>Chickpea-Nohut</item>
+        <item>Chill-Üşütmek</item>
+        <item>Chin-Çene</item>
+        <item>Cliff-Uçurum</item>
+        <item>Clue-İpucu</item>
+        <item>Cock-Horoz</item>
+        <item>Cold-Nezle</item>
+        <item>Collide-Çarpışmak</item>
+        <item>Colonel-Albay</item>
+        <item>Combat-Dövüş</item>
+        <item>Cork-Mantar</item>
+        <item>Daring-Cesur</item>
+        <item>Deaf-Sağır</item>
+        <item>Dear-Sevgili/Değerli</item>
+        <item>Decline-Reddetmek</item>
+        <item>Delusion-Aldatma</item>
+        <item>Deportation-Sürgün</item>
+        <item>Destiny-Kader</item>
+        <item>Detach-Ayırmak</item>
+        <item>Discrete-Ayrık</item>
+        <item>Disrupt-Bozmak</item>
+        <item>Divorcee-Boşanmış</item>
+        <item>Drill-Matkap</item>
+        <item>Edit-Düzenlemek</item>
+        <item>Economy-Ekonomi</item>
+        <item>Enormous-Muazzam</item>
+        <item>Entitle-İsimlendirmek</item>
+        <item>Earn-Para kazanmak</item>
+        <item>Exit-Çıkış</item>
+        <item>Effective-Etkili</item>
+        <item>Efficient-Verimli</item>
+        <item>Emergency-Acil</item>
+        <item>Emotion-Duygu</item>
+        <item>Equipment-Donanım</item>
+        <item>Equal-Eşit</item>
+        <item>Essay-Rapor/Makale</item>
+        <item>Favorable-Olumlu</item>
+        <item>Feeble-Cılız/Zayıf</item>
+        <item>Fabric-Kumaş</item>
+        <item>Fugitive-Kaçak</item>
+        <item>Fade-Renk solmak</item>
+        <item>Fence-Çit</item>
+        <item>Fever-Ateş</item>
+        <item>Faint-Bayılmak</item>
+        <item>Flu-Grip</item>
+        <item>Flat-Daire</item>
+        <item>Flap-Çırpmak</item>
+        <item>Flagrant-Apaçık</item>
+        <item>Flag-Bayrak</item>
+        <item>Gain-Kazanmak</item>
+        <item>Generous-Cömert</item>
+        <item>Genius-Deha/Dahi</item>
+        <item>Genuine-Hakiki/Gerçek</item>
+        <item>Guest-Misafir</item>
+        <item>Guard-Korumak</item>
+        <item>Groom-Damak</item>
+        <item>Grocer-Bakkal</item>
+        <item>Grind-Öğütmek</item>
+        <item>Gravity-Yer çekimi</item>
+        <item>Grateful-Minnettar</item>
+        <item>Grass-Çimen</item>
+        <item>Glove-Eldiven</item>
+        <item>Globe-Küre</item>
+        <item>Glad-Memnun</item>
+        <item>Give-Vermek</item>
+        <item>Gift-Armağan</item>
+        <item>Ghost-Hayalet</item>
+        <item>Hair-Saç</item>
+        <item>Honey-Bal</item>
+        <item>Half-Yarım</item>
+        <item>High-Yüksek</item>
+        <item>Hammer-Çekiç</item>
+        <item>Hand-El</item>
+        <item>Handsome-Yakışıklı</item>
+        <item>Hang-Asmak</item>
+        <item>Happy-Mutlu</item>
+        <item>Harbor-Liman</item>
+        <item>Hat-Şapka</item>
+        <item>Hear-Duymak</item>
+        <item>Headache-Baş ağrısı</item>
+        <item>Heat-Isı/Sıcaklık</item>
+        <item>Hello-Merhaba</item>
+        <item>Help-Yardım etmek</item>
+        <item>Howl-Uluma</item>
+        <item>Health-Sağlık</item>
+        <item>Hit-Vurmak</item>
+        <item>Have-Sahip olmak</item>
+        <item>Inform-Bilgilendirmek</item>
+        <item>Injured-Yaralı</item>
+        <item>Image-Görüntü</item>
+        <item>Impossible-İmkansız</item>
+        <item>Insane-Deli</item>
+        <item>Incorrect-Yanlış</item>
+        <item>Information-Bilgi</item>
+        <item>Intro-Giriş</item>
+        <item>Iron-Demir</item>
+        <item>Invent-İcat etmek</item>
+        <item>Invisible-Görünez</item>
+        <item>Inheritance-Miras</item>
+        <item>Innovation-Yenilik</item>
+        <item>Inquisitive-Meraklı</item>
+        <item>Impulse-Dürtü</item>
+        <item>Inception-Başlangıç</item>
+        <item>Invade-İstila etmek</item>
+        <item>Invention-İcat</item>
+        <item>Invincible-Yenilmez</item>
+        <item>Involved-Karmaşık</item>
+        <item>Ironic-Alaylı/Alaycı</item>
+        <item>Itinerary-Plan/Program</item>
+        <item>Jacket-Ceket</item>
+        <item>Jacuzzi-Jakuzi</item>
+        <item>Jam-Reçel</item>
+        <item>Jar-Kavanoz</item>
+        <item>Javelin-Cirit</item>
+        <item>Jeans-Kot</item>
+        <item>Jewelry-Takı</item>
+        <item>Jimmy-Levye</item>
+        <item>Jug-Sürahi</item>
+        <item>Jukebox-Müzik kutusu</item>
+        <item>Keep-Korumak</item>
+        <item>Key-Anahtar</item>
+        <item>Kick-Tekme</item>
+        <item>Kill-Öldürmek</item>
+        <item>King-Kral</item>
+        <item>Kiss-Öpücük/Öpmek</item>
+        <item>Kitchen-Mutfak</item>
+        <item>Knife-Bıçak</item>
+        <item>Knee-Diz</item>
+        <item>Knock-Vurmak</item>
+        <item>Knot-Düğüm</item>
+        <item>Know-Bilmek</item>
+        <item>Knowledge-Bilgi</item>
+        <item>Keen-Keskin</item>
+        <item>Ketchup-Ketçap</item>
+        <item>Kidney-Böbrek</item>
+        <item>Knight-Silahşör/Şovalye</item>
+        <item>Lack-Eksiklik</item>
+        <item>Ladder-Merdiven</item>
+        <item>Lady-Hanımefendi</item>
+        <item>Lake-Göl</item>
+        <item>Lamb-Kuzu</item>
+        <item>Lame-Topal</item>
+        <item>Lamp-Lamba</item>
+        <item>Language-Dil</item>
+        <item>Large-Geniş</item>
+        <item>Last-Son</item>
+        <item>Laught-Gülmek</item>
+        <item>Lavatory-Tuvalet</item>
+        <item>Law-Yasa</item>
+        <item>Lawful-Yasal</item>
+        <item>Lazy-Tembel</item>
+        <item>Leader-Lider/Önder</item>
+        <item>Leaf-Yaprak</item>
+        <item>Learn-Öğrenmek</item>
+        <item>Leather-Deri</item>
+        <item>Leave-Terk etmek</item>
+        <item>Leg-Bacak</item>
+        <item>Legacy-Miras</item>
+        <item>Legal-Yasal</item>
+        <item>Lemon-Limon</item>
+        <item>lend-Ödünç vermek</item>
+        <item>Less-Daha az</item>
+        <item>Lesson-Ders</item>
+        <item>level-Düzey/Seviye</item>
+        <item>Library-Kitaplık/Kütüphane</item>
+        <item>Licence-Lisans</item>
+        <item>Lie-Yalan/Yalan söylemek</item>
+        <item>Life-Yaşam/Hayat</item>
+        <item>Light-Işık</item>
+        <item>Büyük olasılıkla-Likely</item>
+        <item>Line-Çizgi/Satır</item>
+        <item>Link-Birleştirmek</item>
+        <item>Lip-Dudak</item>
+        <item>Liquid-Sıvı</item>
+        <item>List-Liste</item>
+        <item>Listen-Dinlemek</item>
+        <item>Little-Küçük</item>
+        <item>live-Canlı</item>
+        <item>Load-Yüklemek</item>
+        <item>Long-Uzun</item>
+        <item>Look-Bakmak</item>
+        <item>Lose-Kaybetmek</item>
+        <item>Loss-Kayıp</item>
+        <item>Lot-Çok</item>
+        <item>Lovely-Sevimli</item>
+        <item>Low-Alçak/Düşük</item>
+        <item>Luck-Şans</item>
+        <item>Lucky-Şanslı</item>
+        <item>Luggage-Valiz</item>
+        <item>Lunch-Öğle yemeği</item>
+        <item>Lung-Akciğer</item>
+        <item>Luxury-Lüks</item>
+        <item>Label-Etiket</item>
+        <item>Laboratory-Laboratuvar</item>
+        <item>Ladle-Kepçe</item>
+        <item>Lampshade-Abajur</item>
+        <item>League-Birlik/Lig</item>
+        <item>Lenght-Uzunluk</item>
+        <item>Liar-Yalancı</item>
+        <item>Lid-Kapak</item>
+        <item>Lighter-Çakmak</item>
+        <item>Literature-Edebiyat</item>
+        <item>Liver-Karaciğer</item>
+        <item>Lonely-Yalnız/Kimsesiz</item>
+        <item>Lorry-Kamyon</item>
+        <item>Memorize-Ezberlemek</item>
+        <item>Memory-Hafıza</item>
+        <item>Men-Adamlar</item>
+        <item>Mend-Tamir etmek</item>
+        <item>Mental-Zihinsel</item>
+        <item>Mention-Bahsetmek</item>
+        <item>Mercy-Merhamet</item>
+        <item>Merry-Mutlu</item>
+        <item>Mess-Kargaşa</item>
+        <item>Message-Mesaj</item>
+        <item>Meter-Ölçek</item>
+        <item>Method-Metot</item>
+        <item>Middle-Orta</item>
+        <item>Midnight-Gece yarısı</item>
+        <item>Military-Askeri</item>
+        <item>Milk-Süt</item>
+        <item>Mind-Akıl</item>
+        <item>Minimum-En az</item>
+        <item>Minority-Azınlık</item>
+        <item>Minus-Eksi</item>
+        <item>Mirror-Ayna</item>
+        <item>Mistake-Hata</item>
+        <item>Mix-Karıştırmak</item>
+        <item>Moment-An</item>
+        <item>Monday-Pazartesi</item>
+        <item>Money-Para</item>
+        <item>Month-Ay(Takvim)</item>
+        <item>Moon-Ay</item>
+        <item>More-Daha fazla</item>
+        <item>Morning-Sabah</item>
+        <item>Mosque-Cami</item>
+        <item>Most-En çok</item>
+        <item>Mother-Anne</item>
+        <item>Mountain-Dağ</item>
+        <item>Mouse-Fare</item>
+        <item>Much-Çok</item>
+        <item>Mud-Çamur</item>
+        <item>Murder-Cinayet</item>
+        <item>Music-Müzik</item>
+        <item>Must-Zorunluluk</item>
+        <item>Machine-Makine</item>
+        <item>Magic-Büyü</item>
+        <item>Main-Ana/Esas</item>
+        <item>Male-Erkek</item>
+        <item>Man-Adam</item>
+        <item>Management-Yönetim/Idare</item>
+        <item>Manager-Menajer/Yönetici</item>
+        <item>Map-Harita</item>
+        <item>Marry-Evlenmek</item>
+        <item>Material-Malzeme</item>
+        <item>Meal-Yemek</item>
+        <item>Meaning-Anlam</item>
+        <item>Meat-Et</item>
+        <item>Mechanic-Mekanik</item>
+        <item>Medal-Madalya</item>
+        <item>Medicine-İlaç</item>
+        <item>Meeting-Toplantı</item>
+        <item>Melon-Kavun</item>
+        <item>Melt-Erimek</item>
+        <item>Member-Üye</item>
+        <item>Magnet-Mıknatıs</item>
+        <item>Medical-Tıbbi</item>
+        <item>Mike-Mikrofon</item>
+        <item>Miracle-Mucize</item>
+        <item>Mood-Ruh hali</item>
+        <item>Mosquito-Sivrisinek</item>
+        <item>Moss-Yosun</item>
+        <item>Motion-Hareket</item>
+        <item>Muscle-Kas</item>
+        <item>Mushroom-Mantar</item>
+        <item>Mute-Sessiz</item>
+        <item>Name-Isim</item>
+        <item>Nation-Ulus</item>
+        <item>National-Ulusal</item>
+        <item>Natural-Doğal</item>
+        <item>Nature-Doğa</item>
+        <item>Near-Yakın</item>
+        <item>Need-İhtiyaç</item>
+        <item>Neighbour-Komşu</item>
+        <item>Nephew-yeğen</item>
+        <item>Nervous-Sinirli</item>
+        <item>Never-Asla</item>
+        <item>New-Yeni</item>
+        <item>News-Haber</item>
+        <item>Newspaper-Gazete</item>
+        <item>Next-Sonraki</item>
+        <item>Nice-Hoş</item>
+        <item>Niece-Yeğen(Kız)</item>
+        <item>Night-Gece</item>
+        <item>Noble-Soylu</item>
+        <item>Nobody-Hiç kimse</item>
+        <item>Noise-Gürültü</item>
+        <item>Nose-Burun</item>
+        <item>Notice-Duyuru</item>
+        <item>November-Kasım</item>
+        <item>Now-Şimdi</item>
+        <item>Number-Sayı</item>
+        <item>Nurse-Hemşire</item>
+        <item>Napkin-Peçete</item>
+        <item>Naughty-Yaramaz</item>
+        <item>Network-Şebeke</item>
+        <item>Nickname-Takma isim</item>
+        <item>Novel-Roman</item>
+        <item>Oak-Meşe</item>
+        <item>Object-Nesne</item>
+        <item>Observation-Gözlem</item>
+        <item>Ocean-Okyanus</item>
+        <item>October-Ekim</item>
+        <item>Offer-Teklif etmek</item>
+        <item>Office-Ofis</item>
+        <item>Officer-Memur</item>
+        <item>Official-Resmi</item>
+        <item>Often-Sık sık</item>
+        <item>Oil-Petrol/Yağ</item>
+        <item>Old-Eski</item>
+        <item>Only-Sadece</item>
+        <item>Open-Açık</item>
+        <item>Operate-Çalışmak</item>
+        <item>Opinion-Düşünce</item>
+        <item>Other-Diğer</item>
+        <item>Our-Bizim</item>
+        <item>Out-Dışarı</item>
+        <item>Output-Çıktı</item>
+        <item>Outside-Dışarı</item>
+        <item>Oven-Fırın</item>
+        <item>Own-Sahip olmak</item>
+        <item>Oar-Kürek</item>
+        <item>Odd-Tuhaf/Acayip</item>
+        <item>Onion-Soğan</item>
+        <item>Option-Seçenek</item>
+        <item>Orbit-Yörünge</item>
+        <item>Overtake-Geçmek</item>
+        <item>Oxygen-Oksijen</item>
+        <item>Pack-Paketlemek</item>
+        <item>Packet-Paket</item>
+        <item>Page-Sayfa</item>
+        <item>Pain-Acı/Ağrı</item>
+        <item>Paint-Boyamak</item>
+        <item>Palace-Saray</item>
+        <item>Pan-Tava</item>
+        <item>Paradise-Cennet</item>
+        <item>Parent-Ana Baba</item>
+        <item>Part-Kısım</item>
+        <item>Pass-Geçmek</item>
+        <item>Passenger-Yolcu</item>
+        <item>Password-Parola</item>
+        <item>Past-Geçmiş</item>
+        <item>Patience-Sabır</item>
+        <item>Pay-Ödemek</item>
+        <item>Peace-Barış</item>
+        <item>Pear-Armut</item>
+        <item>People-İnsanlar</item>
+        <item>Pepper-Biber</item>
+        <item>Perfect-Kusursuz</item>
+        <item>Performance-Performans</item>
+        <item>Permission-İzin</item>
+        <item>Person-Kişi</item>
+        <item>Phone-Telefon</item>
+        <item>Photo-Fotoğraf</item>
+        <item>Picture-Resim</item>
+        <item>Pie-Pasta</item>
+        <item>Pine-Çam</item>
+        <item>Pineapple-Ananas</item>
+        <item>Plane-Uçak</item>
+        <item>Plate-Tabak</item>
+        <item>Player-Oyuncu</item>
+        <item>Poison-Zehir</item>
+        <item>Polish-Parlatmak</item>
+        <item>Polite-Kibar</item>
+        <item>Pool-Havuz</item>
+        <item>Poor-Yoksul</item>
+        <item>Population-Nüfus</item>
+        <item>Port-Liman</item>
+        <item>Position-Durum</item>
+        <item>Possibility-Olasılık</item>
+        <item>Possible-Olası</item>
+        <item>Potato-Patates</item>
+        <item>Power-Güç</item>
+        <item>Powerful-Güçlü</item>
+        <item>Practice-Alıştırma</item>
+        <item>Praise-Övmek</item>
+        <item>Predict-Tahmin Etmek</item>
+        <item>Pregnant-Hamile</item>
+        <item>Preparation-Hazirlik</item>
+        <item>President-Başkan</item>
+        <item>Press-Baskı Yapmak</item>
+        <item>Previous-Önceki</item>
+        <item>Price-Fiyat</item>
+        <item>Prison-Hapis</item>
+        <item>Private-Özel</item>
+        <item>Product-Ürün</item>
+        <item>Production-Üretim</item>
+        <item>Progress-Gelişme</item>
+        <item>Protect-Korumak</item>
+        <item>Proud-Gururlu</item>
+        <item>Provide-Sağlamak</item>
+        <item>Punish-Cezalandırmak</item>
+        <item>Push-İtmek</item>
+        <item>Put-Koymak</item>
+        <item>Parachute-Paraşüt</item>
+        <item>Path-Patika</item>
+        <item>Pause-Mola/Ara</item>
+        <item>Pea-Bezelye</item>
+        <item>Peach-Şeftali</item>
+        <item>Peak-Zirve</item>
+        <item>Pearl-İnci</item>
+        <item>Penknife-Çakı</item>
+        <item>Perfume-Parfüm</item>
+        <item>Philosophy-Felsefe</item>
+        <item>Physical-Fiziksel</item>
+        <item>Pickle-Turşu</item>
+        <item>Pillow-Yastık</item>
+        <item>Pillowcase-Yastık kılıfı</item>
+        <item>Pistol-Tabanca</item>
+        <item>Plastic-Plastik</item>
+        <item>Porcelain-Porselen</item>
+        <item>Prescription-Reçete</item>
+        <item>Priority-Öncelik</item>
+        <item>Process-İşlem</item>
+        <item>Prohibit-Yasaklamak</item>
+        <item>Proportion-Orantı</item>
+        <item>Provocation-Kışkırtma</item>
+        <item>Pulse-Nabız</item>
+        <item>Pumpkin-Kabak</item>
+        <item>Pure-Saf/Temiz</item>
+        <item>Purse-Küçük el çantası</item>
+        <item>Pyramid-Pirami̇t</item>
+        <item>Quality-Kalite</item>
+        <item>Quantity-Miktar</item>
+        <item>Quarter-Çeyrek</item>
+        <item>Queen-Kraliçe</item>
+        <item>Question-Soru</item>
+        <item>Queue-Sıra</item>
+        <item>Quick-Çabuk</item>
+        <item>Quiet-Sessiz</item>
+        <item>Quiz-Küçük test</item>
+        <item>Race-Yarışmak</item>
+        <item>Radio-Radyo</item>
+        <item>Rail-Ray</item>
+        <item>Railway-Tren Yolu</item>
+        <item>Rain-Yağmur</item>
+        <item>Rank-Rütbe</item>
+        <item>Rare-Nadi̇r</item>
+        <item>Read-Okumak</item>
+        <item>Ready-Hazır</item>
+        <item>Really-Gerçekten</item>
+        <item>Recall-Anımsamak</item>
+        <item>Receipt-Makbuz</item>
+        <item>Recognize-Tanımak</item>
+        <item>Recommend-Tavsiye etmek</item>
+        <item>Record-Kayıt</item>
+        <item>Refuse-Reddetmek</item>
+        <item>Regular-Düzenli</item>
+        <item>Relax-Rahatlamak</item>
+        <item>Religion-Din</item>
+        <item>Remember-Unutmamak</item>
+        <item>Rent-Ki̇ralamak</item>
+        <item>Repair-Onarmak</item>
+        <item>Repay-Geri Ödemek</item>
+        <item>Repeat-Tekrarlamak</item>
+        <item>Reply-Yanıtlamak</item>
+        <item>Report-Rapor</item>
+        <item>Represent-Temsil etmek</item>
+        <item>Republic-Cumhuriyet</item>
+        <item>Request-Rica etmek</item>
+        <item>Resign-İstifa etmek</item>
+        <item>Respect-Saygı duymak</item>
+        <item>Responsible-Sorumlu</item>
+        <item>Result-Sonuç</item>
+        <item>Retire-Emekli olmak</item>
+        <item>Return-Geri dönmek</item>
+        <item>Reward-Ödül</item>
+        <item>Rich-Zengin</item>
+        <item>Ride-(Ata,bisiklete)Binmek</item>
+        <item>River-Nehir</item>
+        <item>Roll-Yuvarlanmak</item>
+        <item>Roof-Çatı</item>
+        <item>Room-Oda</item>
+        <item>Root-Kök</item>
+        <item>Rose-Gül</item>
+        <item>Rope-Halat</item>
+        <item>Referee-Hakem</item>
+        <item>Region-Bölge</item>
+        <item>Regulation-Yasa</item>
+        <item>Relate-Anlatmak</item>
+        <item>Reliable-Güvenilir</item>
+        <item>Respond-Cevap vermek</item>
+        <item>Resume-Yeniden başlamak</item>
+        <item>Revolution-Devrim</item>
+        <item>Rifle-Tüfek</item>
+        <item>Rocket-Roket</item>
+        <item>Route-Rota</item>
+        <item>Safe-Güvenli</item>
+        <item>Same-Aynı</item>
+        <item>Save-Kurtarmak</item>
+        <item>Saw-Testere</item>
+        <item>Say-Söylemek</item>
+        <item>Scale-Ölçmek</item>
+        <item>School-Okul</item>
+        <item>Science-Bilim</item>
+        <item>Scientist-Bilim adamı</item>
+        <item>Score-Skor</item>
+        <item>Sea-Deniz</item>
+        <item>Seat-Koltuk</item>
+        <item>Second-Saniye</item>
+        <item>Section-Bölüm</item>
+        <item>See-Görmek</item>
+        <item>Sell-Satmak</item>
+        <item>Send-Göndermek</item>
+        <item>Sent-Gönderilmiş</item>
+        <item>Sentence-Cümle</item>
+        <item>Shape-Şekil</item>
+        <item>Sharp-Keskin</item>
+        <item>Ship-Gemi</item>
+        <item>Shoes-Ayakkabı</item>
+        <item>Shop-Dükkan</item>
+        <item>Short-Kısa</item>
+        <item>Should-Zorunda olmak</item>
+        <item>Shoulder-Omuz</item>
+        <item>Shout-Bağırmak</item>
+        <item>Show-Göstermek</item>
+        <item>Signal-Sinyal</item>
+        <item>Similar-Benzer</item>
+        <item>Simple-Basit</item>
+        <item>Since-den beri</item>
+        <item>Sing-Şarkı söylemek</item>
+        <item>Sir-Efendi</item>
+        <item>Sister-Kız kardeş</item>
+        <item>Size-Boyut</item>
+        <item>Skin-Deri</item>
+        <item>Sky-Hava</item>
+        <item>Sleep-Uyku</item>
+        <item>Smell-Koklamak</item>
+        <item>Smile-Gülümsemek</item>
+        <item>Snow-Kar</item>
+        <item>Soft-Yumuşamak</item>
+        <item>Solution-Çözüm</item>
+        <item>Son-Erkek çocuk</item>
+        <item>Song-Şarkı</item>
+        <item>Soon-Yakında</item>
+        <item>Sound-Ses</item>
+        <item>South-Güney</item>
+        <item>Speak-Konuşmak</item>
+        <item>Special-Özel</item>
+        <item>Speed-Hız</item>
+        <item>Spot-Nokta</item>
+        <item>Spring-İlkbahar</item>
+        <item>Square-Kare</item>
+        <item>Star-Yıldız</item>
+        <item>State-Durum</item>
+        <item>Stay-Kalmak</item>
+        <item>Step-Adım</item>
+        <item>Stone-Taş</item>
+        <item>Stop-Durmak</item>
+        <item>Store-Dükkan</item>
+        <item>Story-Hikaye</item>
+        <item>Straight-Düz</item>
+        <item>Street-Sokak</item>
+        <item>String-Dizi</item>
+        <item>Strong-Güçlü</item>
+        <item>Student-Öğrenci</item>
+        <item>Study-Çalışmak</item>
+        <item>Subject-Konu</item>
+        <item>Sugar-Şeker</item>
+        <item>Summer-Yaz</item>
+        <item>Sun-Güneş</item>
+        <item>Supply-Malzeme</item>
+        <item>Surface-Yüzey</item>
+        <item>Swim-Yüzmek</item>
+        <item>Table-Masa</item>
+        <item>Tail-Kuyruk</item>
+        <item>Take-Almak</item>
+        <item>Talk-Konuşmak</item>
+        <item>Tall-Uzun</item>
+        <item>Teacher-Öğretmen</item>
+        <item>Team-Takım</item>
+        <item>Tell-Söylemek</item>
+        <item>Temperature-Sıcaklık</item>
+        <item>Therm-Dönem</item>
+        <item>Thin-İnce</item>
+        <item>Think-Düşünmek</item>
+        <item>Thought-Düşünce</item>
+        <item>Time-Zaman</item>
+        <item>Today-Bugün</item>
+        <item>Together-Birlikte</item>
+        <item>Took-Almak</item>
+        <item>Total-Toplam</item>
+        <item>Touch-Dokunmak</item>
+        <item>Trade-Ticaret</item>
+        <item>Train-Tren</item>
+        <item>Travel-Yolculuk</item>
+        <item>Tree-Ağaç</item>
+        <item>Triangle-Üçgen</item>
+        <item>Trouble-Sorun</item>
+        <item>Truck-Kamyon</item>
+        <item>Try-Denemek</item>
+        <item>Turn-Dönüş</item>
+        <item>Type-Yazmak</item>
+        <item>Ugly-Çirkin</item>
+        <item>Under-Altta</item>
+        <item>Understand-Anlamak</item>
+        <item>Unhappy-Mutsuz</item>
+        <item>University-Üniversite</item>
+        <item>Unknown-Bilinmeyen</item>
+        <item>Unlock-Kilit açmak</item>
+        <item>Valley-Vadi</item>
+        <item>Valuable-Değerli</item>
+        <item>Value-Değer</item>
+        <item>Vegetable-Sebze</item>
+        <item>Victor-Galip</item>
+        <item>View-Görünüm</item>
+        <item>Village-Köy</item>
+        <item>Visible-Görünen</item>
+        <item>Vision-İmge</item>
+        <item>Visit-Ziyaret etmek</item>
+        <item>Vocabulary-Kelime dağarcığı</item>
+        <item>Voice-Ses</item>
+        <item>Voyage-Deniz yolculuğu</item>
+        <item>Van-Minibüs</item>
+        <item>Verb-Fill</item>
+        <item>Vertical-Dikey</item>
+        <item>Violin-Keman</item>
+        <item>Wait-Beklemek</item>
+        <item>Walk-Yürümek</item>
+        <item>Wall-Duvar</item>
+        <item>War-Savaş</item>
+        <item>Warm-Sıcak</item>
+        <item>Wash-Yıkamak</item>
+        <item>Watch-İzlemek</item>
+        <item>Wear-Giymek</item>
+        <item>Weather-Hava</item>
+        <item>Week-Hafta</item>
+        <item>Weight-Kilo</item>
+        <item>West-Batı</item>
+        <item>When-Ne zaman?</item>
+        <item>Where-Nerede?</item>
+        <item>Which-Hangisi</item>
+        <item>Who-Kim?</item>
+        <item>Whose-Kimin?</item>
+        <item>Why-Neden?</item>
+        <item>Wife-Eş(Kadın)</item>
+        <item>Wild-Vahşi</item>
+        <item>Wind-Rüzgar</item>
+        <item>Window-Pencere</item>
+        <item>Winter-Kış</item>
+        <item>Wire-Kablo</item>
+        <item>Work-İş</item>
+        <item>World-Dünya</item>
+        <item>Write-Yazmak</item>
+        <item>Wrong-Yanlış</item>
+        <item>Year-Yıl</item>
+        <item>Yet-Henüz</item>
+        <item>Young-Genç</item>
+        <item>Yourself-Kendin</item>
+        <item>Zone-Bölge</item>
+        <item>Zoo-Hayvanat bahçesi</item>
+
+    </string-array>
+
+
+</resources>

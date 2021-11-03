@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/basla.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/blm_goruntu.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/bolum_btn.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/bolum_btn_press.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/bolum_btn_selector.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/buton_arka_plan.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/buton_arka_plan_press.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/buton_selector.xml" value="0.24259259259259258" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/color_ana.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/color_ana_press.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/color_ana_selector.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/doldur_basla.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/doldur_press.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/doldur_selector.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/eslestir_arka_plan.xml" value="0.2703125" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/eslestir_basla.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/eslestir_buton_selector.xml" value="0.2703125" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/eslestir_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/eslestir_press.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/eslestir_selector.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/eslestirme_basla.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/hayvan_basla.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/hayvan_press.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/hayvan_selector.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_baseline_format_list_numbered_24.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/play.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/renk_basla.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/renk_press.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/renk_selector.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/sayi_basla.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/sayi_press.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/sayi_selector.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/soru_arka_plan.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/splash_screen.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ulke_basla.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ulke_press.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ulke_selector.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/word_basla.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/word_press.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/word_selector.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_bolum_yap.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir11.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir12.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir13.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir14.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir15.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir16.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir2.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir_bolumler.xml" value="0.264" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_eslestir_deneme.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_fragment1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_fragment2.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_quiz.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/board_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_11.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_12.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_13.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_14.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_15.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_16.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_5.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_deneme.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/nazmi/AndroidStudioProjects/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25555555555555554" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

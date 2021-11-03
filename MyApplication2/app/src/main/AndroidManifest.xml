@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/english"
+        android:label="English Quiz"
+        android:roundIcon="@mipmap/english"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".Leveller.eslestir16"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir16"/>
+
+        <meta-data
+            android:name="PARENT_ACTIVITY19"
+            android:value=".Leveller.eslestir16" />
+
+        <activity
+            android:name=".eslestir_bolumler"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".eslestir_bolumler" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY18"
+            android:value=".bolum_yap" />
+
+        <activity
+            android:name=".Leveller.eslestir15"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir15" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY17"
+            android:value=".Leveller.eslestir15" />
+
+        <activity
+            android:name=".Leveller.eslestir14"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir14" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY16"
+            android:value=".Leveller.eslestir14" />
+
+        <activity
+            android:name=".Leveller.eslestir13"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir13" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY15"
+            android:value=".Leveller.eslestir13" />
+
+        <activity
+            android:name=".Leveller.eslestir12"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir12" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY14"
+            android:value=".Leveller.eslestir12" />
+
+        <activity
+            android:name=".Leveller.eslestir11"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir11" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY13"
+            android:value=".Leveller.eslestir11" />
+
+        <activity
+            android:name=".Leveller.eslestir10"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir10" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY12"
+            android:value=".Leveller.eslestir10" />
+
+        <activity
+            android:name=".Leveller.eslestir9"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir9" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY11"
+            android:value=".Leveller.eslestir9" />
+
+        <activity
+            android:name=".Leveller.eslestir8"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir8" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY10"
+            android:value=".Leveller.eslestir8" />
+
+        <activity
+            android:name=".Leveller.eslestir7"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir7" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY9"
+            android:value=".Leveller.eslestir7" />
+
+        <activity
+            android:name=".Leveller.eslestir6"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir6" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY8"
+            android:value=".Leveller.eslestir6" />
+
+        <activity
+            android:name=".Leveller.eslestir5"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir5" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY7"
+            android:value=".Leveller.eslestir5" />
+
+        <activity
+            android:name=".Leveller.eslestir4"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir4" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY6"
+            android:value=".Leveller.eslestir4" />
+
+        <activity
+            android:name=".Leveller.eslestir3"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir3" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY5"
+            android:value=".Leveller.eslestir3" />
+
+        <activity
+            android:name=".Leveller.eslestir2"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir2" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY4"
+            android:value=".Leveller.eslestir2" />
+
+        <activity
+            android:name=".Leveller.eslestir1"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".Leveller.eslestir1" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY3"
+            android:value=".Leveller.eslestir1" />
+
+        <meta-data
+            android:name="PARENT_ACTIVITY2"
+            android:value=".eslestirBolumler" />
+
+        <activity
+            android:name=".QuizActivity"
+            android:exported="true"
+            android:label=""
+            android:parentActivityName=".QuizActivity" />
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.example.myapplication.QuizActivity" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/LauncherFullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+    </application>
+
+</manifest>

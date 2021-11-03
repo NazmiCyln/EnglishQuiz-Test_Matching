@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/Ana_Sayfa_Backround">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp">
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="ca-app-pub-2396996479721834/5725733386">
+        </com.google.android.gms.ads.AdView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/basla_renk"
+            android:onClick="testClick"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            app:cardBackgroundColor="@color/Ana_Sayfa_Renk_Background"
+            app:cardCornerRadius="45dp"
+            app:cardElevation="15dp"
+            tools:ignore="OnClick"
+            android:layout_marginTop="5dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:src="@mipmap/colors1"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Colors Test"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"/>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/basla_hayvan"
+            android:onClick="testClick"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            app:cardBackgroundColor="@color/Ana_Sayfa_Hayvan_Background"
+            app:cardCornerRadius="45dp"
+            app:cardElevation="15dp"
+            tools:ignore="OnClick"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:src="@mipmap/animals1"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Animals Test"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/basla_sayi"
+            android:onClick="testClick"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            app:cardBackgroundColor="@color/Ana_Sayfa_Sayı_Background"
+            app:cardCornerRadius="45dp"
+            app:cardElevation="15dp"
+            tools:ignore="OnClick"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:src="@mipmap/numbers1"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Numbers Test"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/basla_ulke"
+            android:onClick="testClick"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            app:cardBackgroundColor="@color/Ana_Sayfa_Ulke_Background"
+            app:cardCornerRadius="45dp"
+            app:cardElevation="15dp"
+            tools:ignore="OnClick"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:src="@mipmap/country"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Country Test"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/basla_doldur"
+            android:onClick="testClick"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            app:cardBackgroundColor="@color/Ana_Sayfa_Doldur_Background"
+            app:cardCornerRadius="45dp"
+            app:cardElevation="15dp"
+            tools:ignore="OnClick"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:src="@mipmap/fill"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Vocabularies"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/basla_kelime"
+            android:onClick="testClick"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            app:cardBackgroundColor="#8C4B36"
+            app:cardCornerRadius="45dp"
+            app:cardElevation="15dp"
+            tools:ignore="OnClick"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:src="@mipmap/word1"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Words"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/basla_eslestir"
+            android:onClick="testClick"
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            app:cardBackgroundColor="@color/Ana_Sayfa_Eslestir_Background"
+            app:cardCornerRadius="45dp"
+            app:cardElevation="15dp"
+            tools:ignore="OnClick"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="15dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:src="@mipmap/match"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Matching"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#000000"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="SMART_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-2396996479721834/5725733386">
+        </com.google.android.gms.ads.AdView>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Soru_Button_Arka_Plan"
+    tools:context=".eslestir_bolumler">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/Soru_Button_Arka_Plan1">
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="SMART_BANNER"
+            android:background="@color/Soru_Button_Arka_Plan1"
+            ads:adUnitId="ca-app-pub-2396996479721834/5725733386">
+        </com.google.android.gms.ads.AdView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/Soru_Button_Arka_Plan1"
+        android:weightSum="2"
+        android:padding="1dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:backgroundTint="@color/Soru_Button_Arka_Plan1"
+            android:layout_marginTop="1dp"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/eslestirLevel1"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="1dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 1"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel3"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 3"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel5"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 5"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel7"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 7"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel9"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 9"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel11"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 11"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel13"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 13"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel15"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 15"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginTop="1dp"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/eslestirLevel2"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="1dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 2"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel4"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 4"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel6"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 6"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel8"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 8"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel10"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 10"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel12"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 12"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel14"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 14"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+
+            <ImageButton
+                android:id="@+id/eslestirLevel16"
+                android:onClick="testClick"
+                tools:ignore="OnClick"
+                android:background="@color/Soru_Button_Arka_Plan1"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:src="@drawable/blm_rsm4"
+                android:layout_gravity="center"
+                android:layout_marginTop="3dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="2dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level 16"
+                android:layout_gravity="center"
+                android:textSize="22dp"
+                android:textColor="@color/bolumYazi"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="SMART_BANNER"
+            android:layout_marginTop="1dp"
+            android:background="@color/Soru_Button_Arka_Plan1"
+            ads:adUnitId="ca-app-pub-2396996479721834/5725733386">
+
+        </com.google.android.gms.ads.AdView>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>
